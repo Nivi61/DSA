@@ -11,6 +11,7 @@ My LeetCode and data structures practice in Java. Each problem is committed as I
 | [Two_pointer.java](./Two_pointer.java) | Move Zeroes (LeetCode 283) | Two Pointers |
 | [max_subarray.java](./max_subarray.java) | Maximum Subarray (LeetCode 53) | Kadane's Algorithm |
 | [remove_element.java](./remove_element.java) | Remove Element (LeetCode 27) | Two Pointers |
+| [merge_sorted_array.java](./merge_sorted_array.java) | Merge soretd array (LeetCode 88) | Two Pointer, arrays|
 
 ## Structure
 
