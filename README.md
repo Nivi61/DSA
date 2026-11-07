@@ -12,7 +12,8 @@ My LeetCode and data structures practice in Java. Each problem is committed as I
 | [max_subarray.java](./max_subarray.java) | Maximum Subarray (LeetCode 53) | Kadane's Algorithm |
 | [remove_element.java](./remove_element.java) | Remove Element (LeetCode 27) | Two Pointers |
 | [merge_sorted_array.java](./merge_sorted_array.java) | Merge soretd array (LeetCode 88) | Two Pointer, arrays|
-| [plus_one.java](./plus_one.java) | Plus One(LeetCode 66) | Array|
+| [plus_one.java](./plus_one.java) | Plus One (LeetCode 66) | Array|
+| [Max_avg_subarray.java](./Max_avg_subarray.java) | Maximum avg subarray (LeetCode 643) | Array,sliding window|
 
 ## Structure
 
