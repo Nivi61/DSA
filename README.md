@@ -15,6 +15,7 @@ My LeetCode and data structures practice in Java. Each problem is committed as I
 | [plus_one.java](./plus_one.java) | Plus One (LeetCode 66) | Array|
 | [Max_avg_subarray.java](./Max_avg_subarray.java) | Maximum avg subarray (LeetCode 643) | Array,sliding window|
 | [Rotate_img.java](./Rotate_img.java) | Rotate image (LeetCode 48) | Array, Math, Matrix|
+| [Sort_colors.java](./Sort_colors.java) | Sort Colors (LeetCode 48) | Array, Two Pointers, sorting|
 
 ## Structure
 
